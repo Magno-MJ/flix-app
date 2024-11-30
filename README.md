@@ -2,7 +2,7 @@
 
 ## 📔 Description
 
-APP to serve as a frontend for Flix API, the API to manage user movies
+App to serve as a frontend for Flix API, the API to manage user movies
 
 ## 🚀 How to run the project
 
